@@ -11,3 +11,8 @@ form input{
   background:black;
     color:white;
 }
+
+td{
+border:1px solid;
+border-color:blueviolet;
+}
